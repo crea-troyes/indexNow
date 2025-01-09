@@ -33,6 +33,6 @@ Go to the key generator site.
 Click the “Generate Key” button.
 A unique alphanumeric key will be created (example: 1234567890abcdef1234567890abcdef).
 Download the key to the right place
-Create a file named indexnow.txt on your computer.
+Create a file named key_number.txt on your computer.
 Insert the generated key into this file, for example: 1234567890abcdef1234567890abcdef
 Upload this file to the root of your website via an FTP client or your host's file manager
