@@ -29,7 +29,12 @@
                     $submittedUrl = filter_var($_POST['url'], FILTER_SANITIZE_URL);
 
                     if (filter_var($submittedUrl, FILTER_VALIDATE_URL)) {
+                        
+                        
+                        // Remplacez par votre clé
                         $key = "0123456789abcdef";
+
+                        
                         $endpoint = "https://api.indexnow.org/IndexNow";
                         $data = [
                             "host" => parse_url($submittedUrl, PHP_URL_HOST),
