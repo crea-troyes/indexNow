@@ -9,14 +9,18 @@ La clé API est essentielle pour configurer IndexNow et identifier votre site au
 
 Vous pouvez utiliser des générateurs en ligne fiables pour obtenir une clé API. Par exemple :
 Portail officiel Bing : https://www.bing.com/indexnow/getstarted#implementation
-Générez votre clé API
-Accédez au site du générateur de clés.
-Cliquez sur le bouton « Générer une clé ».
+
 Une clé alphanumérique unique sera créée (exemple : 1234567890abcdef1234567890abcdef).
-Téléchargez la clé au bon endroit
-Créez un fichier nommé indexnow.txt sur votre ordinateur.
+
+Téléchargez la clé au bon endroit : à la racine de vore site web. Le fichier texte doit avoir le nom de la clé et contenir la clé (et rien d'autre).
+
+Créez un fichier nommé numero_de_la_cle.txt sur votre ordinateur.
+
 Insérez la clé générée dans ce fichier, par exemple : 1234567890abcdef1234567890abcdef
+
 Téléchargez ce fichier à la racine de votre site web via un client FTP ou le gestionnaire de fichiers de votre hébergeur
+
+
 
 ##How do I get an API key for IndexNow?
 
