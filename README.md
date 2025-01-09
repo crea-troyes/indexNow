@@ -4,7 +4,9 @@ IndexNow in PHP for Bing, Yandex and Seznam
 ##Comment obtenir une clé API pour IndexNow ?
 
 La clé API est essentielle pour configurer IndexNow et identifier votre site auprès des moteurs de recherche.
-Accédez à un générateur de clés IndexNow
+
+#Accédez à un générateur de clés IndexNow
+
 Vous pouvez utiliser des générateurs en ligne fiables pour obtenir une clé API. Par exemple :
 Portail officiel Bing : https://www.bing.com/indexnow/getstarted#implementation
 Générez votre clé API
